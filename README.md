@@ -38,5 +38,5 @@
 
 ## IDE and Tools I Use
 
-<p align="left"> <a href="https://github.com/MikeJeba"><img src="https://skillicons.dev/icons?i=vscode,git,AndroidStudio-dark,github"> </a> </p>
+<p align="left"> <a href="https://github.com/MikeJeba"><img src="https://skillicons.dev/icons?i=vscode,git,AndroidStudio,github"> </a> </p>
 
