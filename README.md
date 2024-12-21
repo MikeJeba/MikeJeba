@@ -38,5 +38,5 @@
 
 ## IDE and Tools I Use
 
-<p align="left"> <a href="https://github.com/MikeJeba"><img src="https://skillicons.dev/icons?i=vscode,git,jetbrains,github"> </a> </p>
+<p align="left"> <a href="https://github.com/MikeJeba"><img src="https://skillicons.dev/icons?i=vscode,git,nodejs,github"> </a> </p>
 
