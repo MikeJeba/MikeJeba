@@ -14,7 +14,7 @@
 
 - 🤖 I am passionate about learning **Android Development**
 
-- 💬 Ask me about **HTML, CSS, Java**
+- 💬 Ask me about **HTML, CSS, Java, Typescript, React**
 
 - 📫 How to reach me **jebajovitha@gmail.com**
 
