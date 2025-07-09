@@ -34,7 +34,7 @@
 
 ## I code in
 
-<p align="left"> <a href="https://github.com/MikeJeba"><img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,tailwindcss,mongodb,react"> </a> </p>
+<p align="left"> <a href="https://github.com/MikeJeba"><img src="https://skillicons.dev/icons?i=c,java,html,css,js,mysql,tailwindcss,mongodb,react,typescript"> </a> </p>
 
 ## IDE and Tools I Use
 
