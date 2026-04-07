@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Full stack**
 
-- 🤖 I am passionate about learning **Android Development**
+- 🤖 I am passionate about learning **Java Springboot**
 
 - 💬 Ask me about **HTML, CSS, Java, Typescript, React, SQL**
 
